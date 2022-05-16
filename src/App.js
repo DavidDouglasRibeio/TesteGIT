@@ -19,6 +19,8 @@ function App() {
            de uma arma para cada cidadao, eles se suicidam e a fome e o mundo acabam
            dois problemas resolvidos :P
 
+           Quando você e o davi vão assumir o relacionamento?
+
            
         </p>
         <a
