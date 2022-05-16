@@ -10,6 +10,8 @@ function App() {
           David e Carol passaram aqui
 
           vidal é noia
+
+          Descreva o senhorio vidal
         </p>
         <a
           className="App-link"
