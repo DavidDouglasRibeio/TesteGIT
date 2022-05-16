@@ -16,6 +16,10 @@ function App() {
            palavras obscenas ,asmc.
 
            Resolva a fome no mundo:
+           de uma arma para cada cidadao, eles se suicidam e a fome e o mundo acabam
+           dois problemas resolvidos :P
+
+           
         </p>
         <a
           className="App-link"
