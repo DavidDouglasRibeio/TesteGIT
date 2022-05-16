@@ -6,12 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p> 
           David e Carol passaram aqui
 
           vidal é noia
 
           Descreva o senhorio vidal
+           carol bacaxi 
         </p>
         <a
           className="App-link"
