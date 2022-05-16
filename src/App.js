@@ -13,6 +13,7 @@ function App() {
 
           Descreva o senhorio vidal
            carol bacaxi 
+           palavras obscenas ,asmc
         </p>
         <a
           className="App-link"
