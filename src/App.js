@@ -13,7 +13,9 @@ function App() {
 
           Descreva o senhorio vidal
            carol bacaxi 
-           palavras obscenas ,asmc
+           palavras obscenas ,asmc.
+
+           Resolva a fome no mundo:
         </p>
         <a
           className="App-link"
